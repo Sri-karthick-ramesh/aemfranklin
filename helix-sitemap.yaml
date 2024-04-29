@@ -2,3 +2,9 @@ sitemaps:
    example:
      source: franklin/query-index.json
      destination: /sitemap-franklin.xml
+     
+<url>
+  <loc>https://wwww.mysite.com/welcome</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://wwww.mysite.com/welcome"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://wwww.mysite.com/fr/welcome"/>
+</url>
