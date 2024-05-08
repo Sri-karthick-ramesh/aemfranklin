@@ -1,7 +1,7 @@
 sitemaps:
    example:
-     source: franklin/franklin-firstpage/query-index.json
-     destination: /sitemap-franklinfirstpage.xml
+     source: franklin/query-index.json
+     destination: /sitemap-franklin.xml
      
 <url>
   <loc>https://wwww.mysite.com/welcome</loc>
