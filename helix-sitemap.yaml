@@ -1,5 +1,0 @@
-sitemaps:
-   example:
-     source: franklin/query-index.json
-     destination: /sitemap-franklin.xml
-     
